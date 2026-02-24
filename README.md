@@ -35,9 +35,8 @@ The model outputs a clear comparison between actual historical prices and the 1-
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Priyankghuntala/AXP-Stock-Forecaster-ML.git](https://github.com/Priyankghuntala/AXP-Stock-Forecaster-ML.git)
+   git clone [https://github.com/Priyankghuntala/AXP-Stock-Forecaster-ML.git]
 
-   Install dependencies:
 2. **Install dependencies:**
    ```bash
     pip install pandas numpy scikit-learn matplotlib
